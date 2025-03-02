@@ -1,7 +1,7 @@
 ePubTranslator:
   deepL:
-    apiEndpoint: https://api.deepl.com # If you subscribe free API plan, use "https://api-free.deepl.com" instead. From v0.7, No longer need to append "/v2/" path
-    apiKey: <put your api key here>
+    apiEndpoint: https://api-free.deepl.com
+    apiKey:aab4cc2a-d6a5-4c6e-b351-87dd6fdf22ad:fx
   language:
     source: en        # default source language
     destination: ja   # default destination language
